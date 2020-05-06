@@ -2,7 +2,8 @@
 # coding=utf-8
 #jangan di recode ngentot
 #recode jomblo seumur hidup
-# (MR.K7C8NG) PEMBUAT
+# (MR.roy404cyber
+) PEMBUAT
 #SUBSCRIBE CHANNEL mrk7c8ng-ices
 #FOLLOW INSTAGRAM @pranata_pasha
 
@@ -67,10 +68,10 @@ logo = """\033[1;96m█████████
 \033[1;96m█████████      \033[1;92m«----------✧----------»
 \033[1;96m ██ ██
 \033[1;96m╔══════════════════════════════════════════════╗
-\033[1;96m║\033[1;96m* \033[1;95mAuthor  \033[1;93m: \033[1;95mBrother•MR.K7C8NG \033[1;96m                ║
-\033[1;96m║\033[1;96m* \033[1;96mGitHub  \033[1;93m: \033[1;96m\033[4mhttps://github.com/pashayogi\033[0m \033[1;96m     ║
-\033[1;96m║\033[1;96m*\033[1;93mYOUTUBE  \033[1;93m: \033[1;91m\033mhttps://youtube.com/c/mrk7c8ng\033[0m \033[1;96m   ║
-\033[1;96m║\033[1;97m*\033[1;97mINSTAGRAM\033[1;92m: \033[1;96m\033m@pranata_pasha\033[0m \033[1;96m                   ║
+\033[1;96m║\033[1;96m* \033[1;95mAuthor  \033[1;93m: \033[1;95mBrother•MR.roy404 \033[1;96m                ║
+\033[1;96m║\033[1;96m* \033[1;96mGitHub  \033[1;93m: \033[1;96m\033[4mhttps://github.com/cybercrime730\033[0m \033[1;96m     ║
+\033[1;96m║\033[1;96m*\033[1;93mYOUTUBE  \033[1;93m: \033[1;91m\033mhttps://youtube.com/c/Doraemontv\033[0m \033[1;96m   ║
+\033[1;96m║\033[1;97m*\033[1;97mINSTAGRAM\033[1;92m: \033[1;96m\033m@roycyber_404\033[0m \033[1;96m                   ║
 \033[1;96m╚══════════════════════════════════════════════╝"""
 
 # titik #
